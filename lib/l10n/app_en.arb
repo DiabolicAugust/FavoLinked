@@ -1,0 +1,10 @@
+{
+  "email": "E-mail",
+  "login": "Login",
+  "password": "Password",
+  "firstTimeHere": "First time here?",
+  "signUp": "Sign up",
+  "confirmPassword": "Confirm password",
+  "signIn": "Sign in",
+  "alreadyHaveAnAccount": "Already gave an account?"
+}

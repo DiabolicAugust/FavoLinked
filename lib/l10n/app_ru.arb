@@ -1,0 +1,10 @@
+{
+  "email": "Почта",
+  "login": "Логин",
+  "password": "Пароль",
+  "firstTimeHere": "Впервые тут?",
+  "signUp": "Регистрация",
+  "confirmPassword": "Подтвердите пароль",
+  "signIn": "Вход",
+  "alreadyHaveAnAccount": "Уже есть аккаунт?"
+}

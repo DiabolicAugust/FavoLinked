@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "386991901166",
+    "project_id": "favolinked-abe09",
+    "storage_bucket": "favolinked-abe09.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:386991901166:android:b2eca6c36e5a57d64be6ff",
+        "android_client_info": {
+          "package_name": "com.example.favo_link"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "386991901166-ffv41tjt7c73vfi8etqd4eqespsmj4pt.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBXw9zo39TOME4La6hHIAXbqpSsfDiTREA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "386991901166-ffv41tjt7c73vfi8etqd4eqespsmj4pt.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
