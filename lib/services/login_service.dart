@@ -7,8 +7,6 @@ class LoginService {
     try {
      await FirebaseAuth.instance
           .signInWithEmailAndPassword(email: email, password: password);
-      Navigator.push(
-          context, MaterialPageRoute(builder: (context) => const HomePage()));
     } on FirebaseAuthException catch (e) {
       ScaffoldMessenger.of(context).showSnackBar( SnackBar(
         content: Text(
@@ -22,8 +20,6 @@ class LoginService {
   signUp(String email, String password, BuildContext context) async {
     try{
      await FirebaseAuth.instance.createUserWithEmailAndPassword(email: email, password: password);
-      Navigator.push(
-          context, MaterialPageRoute(builder: (context) => const HomePage()));
     } on FirebaseAuthException catch (e) {
       ScaffoldMessenger.of(context).showSnackBar( SnackBar(
         content: Text(
